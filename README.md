@@ -14,7 +14,7 @@ The dataset includes images labeled into 10 classes, aiding the model in identif
 ## Model
 
 - The trained **Tomato Leaf Disease Detection Model** (.keras) is available for download here:
-  - [Download .keras Model](https://mega.nz/file/DzZx2T4A#Ft_5-OO3LBpC4zBH5rUSFKsfy4K8bMIlPgIM3zrTt7w)
+  - [Download .keras Model](https://mega.nz/file/fioS0biB#cLUclg8B0iWeFbqOol-uCAPcqVUWCqFhk0_jEMmSHU4)
 
 This model was built using TensorFlow and trained on the dataset to achieve high performance on disease classification.
 
