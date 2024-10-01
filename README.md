@@ -35,7 +35,7 @@ This section provides a step-by-step overview of the disease detection process u
 ### Mobile App Prediction
 This demonstration shows how users can upload images from their mobile gallery to receive disease predictions. The image below highlights the mobile app's prediction feature:
 
-![Mobile App Prediction](./results/mobile_app_prediction.png)
+![Mobile App Prediction](./results/mobile_app_prediction.jpeg)
 
 ## Requirements
 
