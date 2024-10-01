@@ -1,6 +1,6 @@
 # TOMATO LEAF DISEASE DETECTION
 
-This project provides a **Tomato Leaf Disease Detection** model using deep learning techniques, specifically based on a **VGG16-like architecture** with custom layers. The model is designed to classify tomato leaves into 10 different categories, including diseases such as Bacterial Spot, Early Blight, Late Blight, and more, as well as healthy leaves. 
+This project provides a **Tomato Leaf Disease Detection** model using deep learning techniques, specifically based on a **VGG16-like architecture** with custom layers. The model is designed to classify tomato leaves into 10 different categories, including diseases such as Bacterial Spot, Early Blight, Late Blight, and more, as well as healthy leaves.
 
 The dataset includes diverse images sourced from farms, family, and friends, ensuring a wide representation of disease conditions.
 
@@ -14,7 +14,7 @@ The dataset includes images labeled into 10 classes, aiding the model in identif
 ## Model
 
 - The trained **Tomato Leaf Disease Detection Model** (.keras) is available for download here:
-  - [Download .keras Model]([https://mega.nz/file/fioS0biB#cLUclg8B0iWeFbqOol-uCAPcqVUWCqFhk0_jEMmSHU4](https://mega.nz/file/vnYE0YBT#cLUclg8B0iWeFbqOol-uCAPcqVUWCqFhk0_jEMmSHU4))
+  - [Download .keras Model](https://mega.nz/file/vnYE0YBT#cLUclg8B0iWeFbqOol-uCAPcqVUWCqFhk0_jEMmSHU4)
 
 This model was built using TensorFlow and trained on the dataset to achieve high performance on disease classification.
 
